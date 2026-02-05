@@ -6,7 +6,7 @@ An AI-powered web application that analyzes supply chain data to detect anomalie
 
 ## 🚀 Live Demo
 
-[**Try it here**](your-app-url-will-go-here)
+[**Try it here**](https://supplychainanalyzer.streamlit.app/)
 
 ## ✨ Features
 
@@ -22,11 +22,11 @@ An AI-powered web application that analyzes supply chain data to detect anomalie
 - **Data Processing**: Pandas
 - **Visualization**: Matplotlib, Seaborn
 - **AI**: Google Gemini API
-- **Language**: Python 3.9+
+- **Language**: Python 3.11
 
 ## 📋 How to Use
 
-1. Visit the [live app](your-app-url-will-go-here)
+1. Visit the [live app](https://supplychainanalyzer.streamlit.app/)
 2. Enter your Google Gemini API key in the sidebar ([Get a free key here](https://aistudio.google.com/app/apikey))
 3. Upload your supply chain CSV file
 4. Click "Analyze Data"
@@ -74,7 +74,7 @@ The tool generates:
 
 Built as a portfolio project to demonstrate:
 
-- AI/ML integration in business applications
+- AI integration in business applications
 - Product management thinking (identifying real problems)
 - Full-stack development skills
 - Data visualization and analysis
@@ -85,9 +85,8 @@ MIT License - feel free to use and modify!
 
 ## 🔗 Connect
 
-- **Portfolio**: [Your website]
-- **LinkedIn**: [Your LinkedIn]
-- **Email**: [Your email]
+- **LinkedIn**: [https://www.linkedin.com/in/priyanka-gpta/]
+- **Email**: [Yanka.gupta9@gmail.com]
 
 ---
 
